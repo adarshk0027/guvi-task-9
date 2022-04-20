@@ -1,0 +1,98 @@
+body{
+    margin:0;
+}
+.mg{
+    height: 35rem;
+    background-color: black;
+    padding-top: 10rem ;
+    padding-left: 21rem;
+}
+.mgg{
+    font-size: 1.2rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    margin-top: -14px;   
+}
+.magazine{
+    
+    /* height: 23rem;
+    width: 25rem; */
+}
+.main{
+    background-color: white;
+    height: 18.4rem;
+    width: 25.7rem;
+    padding: .5rem;
+}
+.body{
+    height: 17.8rem;
+    width: 25rem;
+    border-style: solid;
+    border-width: 5px;
+    border-color:black;
+}
+.mgtitle{
+    padding-left: 5px;
+    background-color: red;
+    color: white;
+}
+.hai{
+    padding-left: 1.5rem ;
+    margin-top: -1rem;
+}
+.labels{
+    width: 50%;
+    float: right;
+    
+}
+.labels input{
+    border: none;
+    border-bottom: 2px solid black ;
+}
+.address label{
+    margin-left: 1.5rem;
+}
+.address input {
+    margin-left: 1.5rem;
+    width: 90%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.sec{
+    width: 88%;
+    margin-top: 0;
+}
+.sec .city{
+    margin-left: 0.2rem;
+    width: 7rem;
+    float: left;
+
+}
+.sec .city input{
+    width: 90%;
+    margin-left: 1.5rem;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.sec .city label{
+    margin-left: 1.5rem;
+}
+.subs{
+    height: 150px;
+    margin-top: 1rem;
+}
+.sub{
+    margin-left: 1.9rem;
+    
+}
+.sub p , span{
+     font-weight: bold;
+     
+}
+.che p{
+margin-left: 1.5rem;
+}
+.che input{
+   margin-left: 2rem;
+}
+
